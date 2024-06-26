@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a120d818-415a-4286-bf07-d829fa9702e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databaseSystem1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforeVersion/hashIndex.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforeVersion/hashJoin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beforeVersion/makepartialFIle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/databaseservice/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/AttributeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/AttributeMetadataDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/CreateInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/DeleteInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/InsertInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/JoinInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/RelationMetadataDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/SelectInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/dto/StaticMetaDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/hash/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/hash/HashFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/metadatadb/ConnectionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/metadatadb/MetaDataDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/metadatadb/MetaDataProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/metadatadb/SqlStatesment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/sqlquery/queryreader/QueryReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/sqlquery/sqlparser/SqlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eoZw8YfcQGZN7ViJbvUt038saY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/seongseop/IdeaProjects/databaseSystem1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="databasesystem.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databasesystem.Application" />
+      <module name="databaseSystem1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a120d818-415a-4286-bf07-d829fa9702e6" name="Changes" comment="" />
+      <created>1712573130501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712573130501</updated>
+      <workItem from="1712573131572" duration="3121000" />
+      <workItem from="1712576273961" duration="124000" />
+      <workItem from="1712578635771" duration="1000" />
+      <workItem from="1712578650938" duration="13792000" />
+      <workItem from="1712709271513" duration="47359000" />
+      <workItem from="1712792889673" duration="12560000" />
+      <workItem from="1712830539243" duration="7000" />
+      <workItem from="1712830574514" duration="266000" />
+      <workItem from="1716810003657" duration="15617000" />
+      <workItem from="1716898836713" duration="14633000" />
+      <workItem from="1716941946837" duration="511000" />
+      <workItem from="1716966098292" duration="47000" />
+      <workItem from="1716966186877" duration="9165000" />
+      <workItem from="1716988485612" duration="23000" />
+      <workItem from="1716988531928" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/databasesystem/Application.java</url>
+          <line>20</line>
+          <properties class="databasesystem.Application">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/databasesystem/metadatadb/MetaDataProcessor.java</url>
+          <line>134</line>
+          <properties class="databasesystem.metadatadb.MetaDataProcessor" method="increaseRecordSize">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/databasesystem/metadatadb/MetaDataProcessor.java</url>
+          <line>81</line>
+          <properties class="databasesystem.metadatadb.MetaDataProcessor" method="getRelationMetadata">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/databasesystem/sqlquery/queryreader/QueryReader.java</url>
+          <line>11</line>
+          <properties class="databasesystem.sqlquery.queryreader.QueryReader" method="createSQL">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java</url>
+          <line>514</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java</url>
+          <line>478</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java</url>
+          <line>248</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/databasesystem/systemdb/FileProcessor.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/databasesystem/Application.java</url>
+          <line>10</line>
+          <properties field="MENU" class="databasesystem.Application" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
